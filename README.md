@@ -1,13 +1,15 @@
 # Strm41ICO
 ERC20 token for Strm41 coin
 
-
+Price
+===========
 
 1 ETH = 100 coins
 
 
 
-Rewards:
+Rewards
+===========
 
 Week 1: 20% bonus
 
@@ -20,8 +22,8 @@ Week 4 onwards: 0% bonus
 
 
 
-Important Dates
-
+Important Dates/Info
+===========
 Start Date: 9 March 2018
 
 End Date 10 May 2018 
